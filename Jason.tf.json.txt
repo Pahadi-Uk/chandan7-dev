@@ -1,0 +1,12 @@
+{
+  "output" : {
+    "hello" : {
+      "value" : "This is my attempt towards json file"
+    }
+  },
+  "output" : {
+    "label2" : {
+      "value" : "This is second block"
+    }
+  }
+}
